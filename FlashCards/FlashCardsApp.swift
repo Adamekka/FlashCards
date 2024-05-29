@@ -1,8 +1,7 @@
 //
 //  FlashCardsApp.swift
-//  FlashCards
 //
-//  Created by Adam Cvikl on 29.05.2024.
+//  Copyright © 2024 Adam Cvikl
 //
 
 import SwiftUI

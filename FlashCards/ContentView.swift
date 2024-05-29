@@ -1,21 +1,14 @@
 //
 //  ContentView.swift
-//  FlashCards
 //
-//  Created by Adam Cvikl on 29.05.2024.
+//  Copyright © 2024 Adam Cvikl
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        EmptyView()
     }
 }
 
